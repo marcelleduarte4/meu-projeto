@@ -1,0 +1,41 @@
+body {
+    background: pink;
+    font-family: arial;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around; 
+  }
+  
+  .menu li {
+    list-style: none;
+  } 
+  
+  a{
+    color: #8fbc8f;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }
+  
+  .site-title {
+    color: #ff6f9c;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    color: #8fbc8f;
+    text-align: center;
+    font-style: italic;
+  }
+  
+   
+  
+  
